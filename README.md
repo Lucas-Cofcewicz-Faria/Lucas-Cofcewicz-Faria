@@ -1,6 +1,6 @@
 #  🌄 Lucas Cofcewicz Faria
 
-![fbc6f31bd3b84159470b973aca7e0f97](https://github.com/user-attachments/assets/6725f7c5-f151-4f7c-b13b-7fbe51ac9ce7)
+![9070324cdfc07c68d60eed0c39e77573](https://github.com/user-attachments/assets/29327ca3-182b-40ef-b2cc-489bf0695251)
 
 ##  📊Estatísticas do Github:
 
