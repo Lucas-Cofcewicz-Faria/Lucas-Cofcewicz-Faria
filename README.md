@@ -1,16 +1,14 @@
-## Hi there 👋
+#  🌄 Lucas Cofcewicz Faria
 
-<!--
-**Lucas-Cofcewicz-Faria/Lucas-Cofcewicz-Faria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![fbc6f31bd3b84159470b973aca7e0f97](https://github.com/user-attachments/assets/6725f7c5-f151-4f7c-b13b-7fbe51ac9ce7)
 
-Here are some ideas to get you started:
+##  📊Estatísticas do Github:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-Cofcewicz-Faria&show_icons=true&theme=shadow_red&hide_border=true&bg_color=000000&icon_color=c71d48&text_color=c8c8c8&title_color=ed2255)](https://github.com/Lucas-Cofcewicz-Faria/github-readme-stats)
+
+ ##  ✉️Me Contate neste email: 
+ Lucascofcewicz@gmail.com
+
+##  🫡Meu Buddy:
+https://github.com/FeZillo
+
