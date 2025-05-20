@@ -9,6 +9,3 @@
  ##  ✉️Me Contate neste email: 
  Lucascofcewicz@gmail.com
 
-##  🫡Meu Buddy:
-https://github.com/FeZillo
-
